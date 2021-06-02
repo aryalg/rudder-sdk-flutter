@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   logger: ^0.9.4
-  intl: ^0.16.1
+  intl: ^0.17.0
 
 dev_dependencies:
   flutter_test:
